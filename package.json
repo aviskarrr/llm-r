@@ -10,7 +10,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "dialogflow-v2": "^2.2.0",
     "express": "^4.21.2"
   }
 }
